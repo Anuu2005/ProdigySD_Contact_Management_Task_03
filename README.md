@@ -8,7 +8,7 @@ Features:-
 
 Add new contacts with name, phone number, and email address.
 
-View, edit, and delete existig xontacts.
+View, edit, and delete existig contacts.
 
 Contacts are stored in memory for now, but future plans include persistent storage.
 
